@@ -72,6 +72,7 @@ public class MainApp extends Application {
 
     public static void main(String[] args) {
         launch(args);
-        int i=0;
+        int i=7;
+        double j=0.6;
     }
 }
